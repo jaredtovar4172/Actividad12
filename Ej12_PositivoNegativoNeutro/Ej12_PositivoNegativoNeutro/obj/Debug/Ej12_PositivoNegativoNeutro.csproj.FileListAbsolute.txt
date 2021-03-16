@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\bin\Debug\Ej12_PositivoNegativoNeutro.exe.config
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\bin\Debug\Ej12_PositivoNegativoNeutro.exe
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\bin\Debug\Ej12_PositivoNegativoNeutro.pdb
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\obj\Debug\Ej12_PositivoNegativoNeutro.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\obj\Debug\Ej12_PositivoNegativoNeutro.Form1.resources
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\obj\Debug\Ej12_PositivoNegativoNeutro.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\obj\Debug\Ej12_PositivoNegativoNeutro.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\obj\Debug\Ej12_PositivoNegativoNeutro.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\obj\Debug\Ej12_PositivoNegativoNeutro.exe
+C:\Users\jared\source\repos\Ej12_PositivoNegativoNeutro\Ej12_PositivoNegativoNeutro\obj\Debug\Ej12_PositivoNegativoNeutro.pdb
